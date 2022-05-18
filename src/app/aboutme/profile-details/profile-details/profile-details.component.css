@@ -1,0 +1,21 @@
+.heading {
+    font-family: 'Libre Baskerville', serif;
+    color: #0000e6;
+    text-decoration: underline;
+}
+
+.profile-description {
+    font-family: 'Tapestry', cursive;
+    font-size: 1.8em;
+}
+
+li {
+    list-style: none;
+    margin-bottom: 5px;
+    display:flex;
+    align-items: center;
+}
+
+i {
+    margin: 10px;
+}
